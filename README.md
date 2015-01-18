@@ -1,2 +1,2 @@
 # website
-It my first course of repository in Github
+It is my firsrt repository
